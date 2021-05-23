@@ -1,0 +1,13 @@
+// Here you can add other styles
+.action-icon
+{
+    width: 1rem;
+    height: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: transform .2s;
+    margin-right: 0.8rem;
+}
+.action-icon:hover{
+    transform: scale(1.3); 
+}
